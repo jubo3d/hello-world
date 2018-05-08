@@ -1,2 +1,3 @@
 # hello-world
 Just test repository.
+I was bored today so I thought why not to learn Github....
